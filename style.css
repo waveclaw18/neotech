@@ -1,0 +1,86 @@
+* {
+    margin: 0px;
+    border: 0px;
+    background-color: rgb(46, 46, 46);
+    
+}
+body {
+    color: white;
+}
+
+.mid-text {
+    margin-top: 100px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+#neo-pic {
+    cursor: pointer;
+}
+
+#div-1 {
+    border-bottom: solid 1px rgb(255, 0, 0);
+}
+
+#neo-header {
+    font-size: 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#top-bar {
+    
+    margin-top: 0px;
+    height: 75px;
+    background-color: grey;
+}
+.inline {
+    background-color: rgb(0, 0, 175);
+    color: white; 
+    cursor: pointer; 
+    float: left;
+    height: 50px;
+    width: 100px;
+}
+
+#button-1 {
+    background-color: blue;
+    color: white;
+    width: 100px;
+    height: 50px;
+    border-radius: 25px;
+    border: solid 2px red;
+    cursor: pointer;
+}
+
+#button-1 button:hover {
+    background-color: rgb(217, 255, 0);
+}
+
+#top-gg {
+    background-color: blue;
+    color: white;
+    width: 100px;
+    height: 50px;
+    border-radius: 25px;
+    border: solid 2px red;
+    margin-top: 10px;
+    cursor: pointer;
+}
+
+#docs {
+    background-color: blue;
+    color: white;
+    width: 100px;
+    height: 50px;
+    border-radius: 25px;
+    border: solid 2px red;
+    margin-top: 0px;
+    cursor: pointer;
+}
